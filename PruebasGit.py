@@ -1,1 +1,2 @@
-print("Hola Pokemon")
+for i in range(10):
+    print("Hola Pokemon")
